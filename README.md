@@ -8,4 +8,4 @@ You have to install some open-source external libraries like BeautifulSoup,Selen
 sudo pip3 install package-name
 
 ## Run the code
-python3 iia_scarper.py
+python3 iia_scraper.py
